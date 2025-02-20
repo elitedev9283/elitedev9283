@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elitedev9283&label=Profile%20views&color=0e75b6&style=flat" alt="pranav2012" /> 
-  <a href="https://github.com/elitedev9283/"><img src="https://img.shields.io/github/followers/elitedev9283.svg?label=Follow%20@elitedev9283&style=social"/> </a>
+  <a href="https://github.com/elitedev9283/"><img src="https://img.shields.io/github/followers/pranav2012.svg?label=Follow%20@elitedev9283&style=social"/> </a>
 </p>
