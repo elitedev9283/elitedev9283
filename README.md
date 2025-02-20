@@ -36,6 +36,7 @@ Here are some ideas to get you started:
   * TensorFlow (C++ API)
   * Dlib and OpenCV
   * QT | MFC | Reverse Engineering
+  * RaspberryPI | OrangePI
 - Python
   * **TensorFlow, Keras, PyTorch** <small>for deep learning.</small>
   * **scikit-learn** <small>for machine learning algorithms.</small>
