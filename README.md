@@ -50,9 +50,22 @@ Passionate AI Engineer
 - Proficient Bot | Web Automation
   * API intergration
   * Problem-Solving Strategy
+  * Selenium
+  * Avoiding almost anti-bot measure
+  * Visualize smartly
+  * 
 
 <p align="right"> Web Scraping and special Analysis and Visualization Avoiding almost Anti-bot Measure</p>
-
-<a hrel="https://bestbuy-laptop-scraper-e5de86899165.herokuapp.com/">
+https://www.bestbuy.com/
+<a href="https://bestbuy-laptop-scraper-e5de86899165.herokuapp.com/">
 <img src="https://github.com/user-attachments/assets/136c270b-45a9-4dcd-9eaf-192685928814" alt="elite9283" />
+</a>
+
+<p align="right"> Digital Twin for Robot Arm </p>
+
+![image](https://github.com/user-attachments/assets/75553004-3994-4dbe-94d2-de60ebfb8ec8)
+
+<p align="right"> Solar Energy Digital Twins</p>
+<a href="[httpshttps://everginedigitaltwins.z6.web.core.windows.net">
+<img src="https://github.com/user-attachments/assets/08150f54-074c-47b6-b824-7618e2d44b0c" alt="elite9283" />
 </a>
