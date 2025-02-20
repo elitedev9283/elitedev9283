@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ----
 Passionate AI Engineer
 
-### ✨ Tech Stacks
+### 🛠️ Tech Stack
 ----
 - Robotics
   <p align="left"> As Robot Software Developer</p>
@@ -44,8 +44,9 @@ Passionate AI Engineer
   * **OpenCV** for <small>computer vision.</small>
 - Web Development (✨3D WebGL/Three.js)
   * WordPress
-  * Next.js React.js TailwindCSS / Node.js PHP
+  * Next.js React.js TailwindCSS / Node.js PHP / Django, Flask
   * Three.js | WebGL
+  * Microservice
 - OpenSim & Digital Twins
 - Proficient Bot | Web Automation
   * API intergration
@@ -53,7 +54,6 @@ Passionate AI Engineer
   * Selenium
   * Avoiding almost anti-bot measure
   * Visualize smartly
-  * 
 
 <p align="right"> Web Scraping and special Analysis and Visualization Avoiding almost Anti-bot Measure</p>
 https://www.bestbuy.com/
