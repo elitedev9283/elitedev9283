@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elitedev9283&label=Profile%20views&color=0e75b6&style=flat" alt="pranav2012" /> 
   <a href="https://github.com/elitedev9283/"><img src="https://img.shields.io/github/followers/pranav2012.svg?label=Follow%20@elitedev9283&style=social"/> </a>
 </p>
+
+<p align="left"><img width="46%"  src="https://github-readme-stats.vercel.app/api?username=elitedev9283&show_icons=true&locale=en&theme=tokyonight" alt="elitedev9283" /> <img width="49%" 
+ src="https://github-readme-streak-stats.herokuapp.com/?user=pranav2012&theme=tokyonight" alt="elitedev9283" /></p>
