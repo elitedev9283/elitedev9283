@@ -56,7 +56,7 @@ Here are some ideas to get you started:
   * Visualize smartly
 
 <p align="right"> Web Scraping and special Analysis and Visualization Avoiding almost Anti-bot Measure</p>
-https://www.bestbuy.com/
+https://www.bestbuy.com/ https://bestbuy-laptop-scraper-e5de86899165.herokuapp.com/
 <a href="https://bestbuy-laptop-scraper-e5de86899165.herokuapp.com/">
 <img src="https://github.com/user-attachments/assets/136c270b-45a9-4dcd-9eaf-192685928814" alt="elite9283" />
 </a>
