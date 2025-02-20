@@ -47,3 +47,9 @@ Passionate AI Engineer
   * Next.js React.js TailwindCSS / Node.js PHP
   * Three.js | WebGL
 - OpenSim & Digital Twins
+- Proficient Bot | Web Automation
+  * API intergration
+  * Problem-Solving Strategy
+
+#### Web Scraping and special Analysis and Visualization Avoiding almost Anti-bot Measure
+![image](https://github.com/user-attachments/assets/136c270b-45a9-4dcd-9eaf-192685928814)
