@@ -22,8 +22,7 @@ Here are some ideas to get you started:
 
 ### 🚀 About Me
 ----
-Passionate AI Engineer
-
+**A Rising Talent AI Engineer** that is focused on Computer Vision and MLOps, skilled in Python, experienced in backend development, and proficient in building bots. Project: I have built a bot, for automating interactions with APIs, for interacting with user requests.
 ### 🛠️ Tech Stack
 ----
 - Robotics
