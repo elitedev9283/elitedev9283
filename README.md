@@ -19,7 +19,10 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elitedev9283&label=Profile%20views&color=0e75b6&style=flat" alt="pranav2012" /> 
   <a href="https://github.com/elitedev9283/"><img src="https://img.shields.io/github/followers/pranav2012.svg?label=Follow%20@elitedev9283&style=social"/> </a>
 </p>
+###🚀 About Me
+Passionate AI Engineer
 
+### ✨ Tech Stacks
 - C/C++
   * Algorithm
   * TensorFlow (C++ API)
@@ -30,3 +33,6 @@ Here are some ideas to get you started:
   * **NumPy, Pandas, Matplotlib** <small>for data manipulation, analysis and visualiztion.</small>
   * **NLTK, spaCy** <small>for Natural Language Processing (NLP).</small>
   * **OpenCV** for <small>computer vision.</small>
+- Web Development
+  * WordPress
+  * Next.js React.js TailwindCSS / Node.js PHP
