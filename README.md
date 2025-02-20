@@ -25,8 +25,8 @@ Here are some ideas to get you started:
   * TensorFlow (C++ API)
   * Dlib and OpenCV
 - Python
-  * **TensorFlow, Keras, PyTorch** for deep learning.
-  * **scikit-learn** for machine learning algorithms.
-  * **NumPy, Pandas, Matplotlib** for data manipulation, analysis and visualiztion.
-  * **NLTK, spaCy** for Natural Language Processing (NLP).
-  * **OpenCV** for computer vision.
+  * **TensorFlow, Keras, PyTorch** <small>for deep learning.</small>
+  * **scikit-learn** <small>for machine learning algorithms.</small>
+  * **NumPy, Pandas, Matplotlib** <small>for data manipulation, analysis and visualiztion.</small>
+  * **NLTK, spaCy** <small>for Natural Language Processing (NLP).</small>
+  * **OpenCV** for <small>computer vision.</small>
