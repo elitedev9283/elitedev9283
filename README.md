@@ -25,6 +25,24 @@ Here are some ideas to get you started:
 **A Rising Talent AI Engineer** that is focused on Computer Vision and MLOps, skilled in Python, experienced in backend development, and proficient in building bots. Project: I have built a bot, for automating interactions with APIs, for interacting with user requests.
 ### 🛠️ Tech Stack
 ----
+- AI & ML
+  * Object detection
+  * Human AR/VR (Unity, WebXR, OpenXR)
+  * Image segmentation (semantic and instance)
+  * Optical Character Recognition (OCR)
+  * MLOps (ML Pipeline)
+  * Key-point Detection
+  * Pose Estimation
+  * Image Classification
+  * Face and Person Re-identification
+  * Face Verification
+  * Depth Estimation
+  * Object Tracking and Counting
+  * Action Recognition
+  * Time Series Forecasting
+  * Text Mining and Classification
+  * Model Quantization for deployment on CPU, GPU, and TPU devices
+
 - Robotics
   <p align="left"> As Robot Software Developer</p>
   
