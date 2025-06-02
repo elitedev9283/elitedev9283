@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 ### 🚀 About Me
 ----
-**A Rising Talent AI Engineer** that is focused on Computer Vision and MLOps, skilled in C/C++, C# and  Python, experienced in DesktopApp/backend development, and proficient in building robots.
+**A Senior Software Engineer** that is focused on Computer Vision and MLOps, skilled in C/C++, C# and  Python, experienced in DesktopApp/backend development, and proficient in building robots.
