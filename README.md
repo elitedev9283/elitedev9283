@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Elite Engineer.
+## Hi there 👋 I'm a elite Software Engineer.
 
 <!--
 **elitedev9283/elitedev9283** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,55 +22,4 @@ Here are some ideas to get you started:
 
 ### 🚀 About Me
 ----
-**A Rising Talent AI Engineer** that is focused on Computer Vision and MLOps, skilled in Python, experienced in backend development, and proficient in building bots. Project: I have built a bot, for automating interactions with APIs, for interacting with user requests.
-### 🛠️ Tech Stack
-----
-- AI & ML
-  * Object detection
-  * Human AR/VR (Unity, WebXR, OpenXR)
-  * Image segmentation (semantic and instance)
-  * Optical Character Recognition (OCR)
-  * MLOps (ML Pipeline)
-  * Key-point Detection
-  * Pose Estimation
-  * Image Classification
-  * Face and Person Re-identification
-  * Face Verification
-  * Depth Estimation
-  * Object Tracking and Counting
-  * Action Recognition
-  * Time Series Forecasting
-  * Text Mining and Classification
-  * Model Quantization for deployment on CPU, GPU, and TPU devices
-
-- Robotics
-  <p align="left"> As Robot Software Developer</p>
-  
-  * ROS2 / Nav2 / SLAM
-  * Embedded Devices Arduino | MicroPython | C++
-  * Gazebo
-- C/C++
-  * Algorithm
-  * TensorFlow (C++ API)
-  * Dlib and OpenCV
-  * QT | MFC | Reverse Engineering
-  * RaspberryPI | OrangePI
-- Python
-  * **TensorFlow, Keras, PyTorch** <small>for deep learning.</small>
-  * **scikit-learn** <small>for machine learning algorithms.</small>
-  * **NumPy, Pandas, Matplotlib** <small>for data manipulation, analysis and visualiztion.</small>
-  * **NLTK, spaCy** <small>for Natural Language Processing (NLP).</small>
-  * **OpenCV** for <small>computer vision.</small>
-- Web Development (✨3D WebGL/Three.js)
-  * FastAPI | RESTful API
-  * Next.js React.js TailwindCSS / Node.js PHP / Django, Flask
-  * Three.js | WebGL
-  * Microservice
-- OpenSim & Digital Twins
-- Proficient Bot | Web Automation
-  * API intergration
-  * Problem-Solving Strategy
-  * Selenium
-  * Avoiding almost anti-bot measure
-  * Visualize smartly
-
+**A Rising Talent AI Engineer** that is focused on Computer Vision and MLOps, skilled in C/C++, C# and  Python, experienced in DesktopApp/backend development, and proficient in building robots.
